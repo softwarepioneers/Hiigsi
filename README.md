@@ -1,2 +1,2 @@
-# Hiigsi
+# Hiigsi Solutions
 Hiigsi Solutions
