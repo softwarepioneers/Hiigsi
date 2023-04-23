@@ -1,2 +1,2 @@
-# Hiigsi Solutions
-Hiigsi Solutions
+# Hiigsi Technology
+Hiigsi Technology
